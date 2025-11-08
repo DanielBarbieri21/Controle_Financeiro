@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_light_primary">#29ABE2</color> <!-- Your app's primary blue -->
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#B0E5FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001F2A</color>
+    <color name="md_theme_light_secondary">#FFC107</color> <!-- Your app's accent yellow -->
+    <color name="md_theme_light_onSecondary">#000000</color>
+    <color name="md_theme_light_secondaryContainer">#FFECB3</color>
+    <color name="md_theme_light_onSecondaryContainer">#251A00</color>
+    <color name="md_theme_light_tertiary">#66BB6A</color> <!-- Green for positive -->
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#C8E6C9</color>
+    <color name="md_theme_light_onTertiaryContainer">#002105</color>
+    <color name="md_theme_light_error">#F44336</color> <!-- Red for destructive/negative -->
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFCDD2</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#F8F8F8</color> <!-- Light background -->
+    <color name="md_theme_light_onBackground">#1C1B1F</color>
+    <color name="md_theme_light_surface">#F8F8F8</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E0E0E0</color> <!-- Border/Input like -->
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    <color name="md_theme_light_outline">#79747E</color>
+
+    <color name="md_theme_dark_primary">#29ABE2</color> <!-- Your app's primary blue -->
+    <color name="md_theme_dark_onPrimary">#FFFFFF</color>
+    <color name="md_theme_dark_primaryContainer">#00405A</color>
+    <color name="md_theme_dark_onPrimaryContainer">#B0E5FF</color>
+    <color name="md_theme_dark_secondary">#FFEB3B</color> <!-- Your app's accent yellow (brighter for dark) -->
+    <color name="md_theme_dark_onSecondary">#3E2700</color>
+    <color name="md_theme_dark_secondaryContainer">#584200</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFECB3</color>
+    <color name="md_theme_dark_tertiary">#81C784</color> <!-- Green for positive -->
+    <color name="md_theme_dark_onTertiary">#003911</color>
+    <color name="md_theme_dark_tertiaryContainer">#00531F</color>
+    <color name="md_theme_dark_onTertiaryContainer">#C8E6C9</color>
+    <color name="md_theme_dark_error">#EF5350</color> <!-- Red for destructive/negative -->
+    <color name="md_theme_dark_onError">#601410</color>
+    <color name="md_theme_dark_errorContainer">#8C1D18</color>
+    <color name="md_theme_dark_onErrorContainer">#FFCDD2</color>
+    <color name="md_theme_dark_background">#121212</color> <!-- Dark background -->
+    <color name="md_theme_dark_onBackground">#E6E1E5</color>
+    <color name="md_theme_dark_surface">#1E1E1E</color> <!-- Card like dark -->
+    <color name="md_theme_dark_onSurface">#E6E1E5</color>
+    <color name="md_theme_dark_surfaceVariant">#3A3A3A</color> <!-- Border/Input like dark -->
+    <color name="md_theme_dark_onSurfaceVariant">#CAC4D0</color>
+    <color name="md_theme_dark_outline">#938F99</color>
+</resources>

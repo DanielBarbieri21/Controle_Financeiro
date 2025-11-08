@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Add backup rules here for cloud backup.
+        By default, files and cache directories are not backed up.
+        You can override this behavior by adding and removing <include> and <exclude> tags.
+        For more information, visit https://developer.android.com/guide/topics/data/autobackup
+        -->
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- TODO: Add backup rules here for device-to-device transfer.
+        By default, files and cache directories are not backed up.
+        You can override this behavior by adding and removing <include> and <exclude> tags.
+        For more information, visit https://developer.android.com/guide/topics/data/autobackup
+        -->
+        <exclude domain="root" />
+        <exclude domain="file" />
+        <exclude domain="database" />
+        <exclude domain="sharedpref" />
+        <exclude domain="external" />
+    </device-transfer>
+</data-extraction-rules>
