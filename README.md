@@ -226,13 +226,18 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Desenvolvedor
+---
 
-**Daniel Barbieri Dev**
-- 🎮 Desenvolvedor de Jogos
-- 💻 Especialista em C/C++
-- 🚀 Entusiasta de Tecnologia
-- 📧 Contato: [Daniel Barbieri](mailto:dibarbieri21@gmail.com)
+🛠️ **Software desenvolvido por Daniel Barbieri**  
+Engenheiro de Software | Full Stack Developer  
+
+Código construído com foco em eficiência, organização, escalabilidade e boas práticas de desenvolvimento.
+
+🌐 GitHub: https://github.com/DanielBarbieri21  
+💼 LinkedIn: https://www.linkedin.com/in/daniel-barbieri-4990462a/
+
+---
+
 
 ## 🐛 Problemas Conhecidos
 
